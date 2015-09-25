@@ -15,4 +15,6 @@ To install this manager go to your **Administration Panel > Modules > JavaScript
 
 Then copy the [raw source](https://raw.githubusercontent.com/SethClydesdale/fa-toolbar-share/master/share_buttons.js) into the textarea and save. By default, this should enable three new share buttons ; Pinterest, Tumblr, and Reddit. As well as a few extra buttons that are disabled, and some tooltips added to each button.
 
-A more indepth tutorial will be created soon which teaches you how to manage your buttons.
+For a more indepth tutorial please see one of the links below.
+
+- [English](http://help.forumotion.com/t143547-add-more-share-buttons-to-your-toolbar#978933)
